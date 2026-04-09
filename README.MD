@@ -3,7 +3,8 @@
 # EasyList Mirror Syncing Bot
 This is the EasyList Mirror Updater Bot (formerly EasyList Mirror Syncing Bot), an account operated by automated scripts which are created by [TheDoggyBrad Software Labs](https://github.com/thedoggybrad). It is founded on August 13, 2023. This account is used to automate the update process on the EasyList Mirror (Unofficial) located at https://github.com/thedoggybrad/easylist-mirror/.
 <br>
-All the codes used in the automation of this account is located on https://github.com/thedoggybrad/easylist-mirror/tree/main/ct-triggers/ and on https://github.com/thedoggybrad/easylist-mirror/tree/main/.github/workflows/.
+All the codes used in the automation of this account is located on https://github.com/thedoggybrad/easylist-mirror/tree/main/ct-triggers/ and on https://github.com/thedoggybrad/easylist-mirror/tree/main/.github/workflows/ and on https://github.com/updaterbot-easylistmirror/emergency_trigger.
+
 
 ## Filterlists Mirror Links
 Looking for the filterlist links of the unofficial mirror? Here's the links. <br>
