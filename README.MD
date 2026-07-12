@@ -1,4 +1,4 @@
-<img src="Logo.jpg" width="128" height="128">
+<img src="Logo.jpg" width="196" height="196">
 
 # EasyList Mirror Syncing Bot
 This is the EasyList Mirror Updater Bot (formerly EasyList Mirror Syncing Bot), an account operated by automated scripts which are created by [TheDoggyBrad Software Labs](https://github.com/thedoggybrad). It is founded on August 13, 2023. This account is used to automate the update process on the EasyList Mirror (Unofficial) located at https://github.com/thedoggybrad/easylist-mirror/.
